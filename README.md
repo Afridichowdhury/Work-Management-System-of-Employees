@@ -1,4 +1,5 @@
 # Work-Management-System-of-Employees
+we are trying to work management of our employees.so that we make a software following the below SDLC model
 1. *Planning:*
    - Identify the objectives and scope of the automation.
    - Define the features and functionalities needed for the automated system.
@@ -34,4 +35,7 @@
    - Regularly update the system to incorporate new features or address security concerns.
    - Monitor system performance and make optimizations as needed.
 
-Throughout the SDLC, collaboration between developers, stakeholders, and end-users is crucial to ensure that the automated electricity billing system meets the requirements and functions effectively.
+Name:Afridi Chowdhury
+Student Id:2002009
+L-3,S-1
+Department:CSE
